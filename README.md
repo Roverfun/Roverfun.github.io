@@ -190,7 +190,7 @@
     <br>
       <input type="checkbox" class="largerCheckbox"
              name="checkBox7" check><b>            OTHERS</b></p>
-              </div>
+             
               <br>
               
        
