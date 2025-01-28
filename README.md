@@ -196,9 +196,9 @@
        
                 <textarea name="reason" placeholder="Have You Applied For This Correction Before?"></textarea>
                <a href="step2.html"><button type="botton" class="button">PROCEED HERE</button></a>
-            </form>
-        </div>
-    </div>
+            
+      
+  
     <div class="grant-info">
         <center><h2>DON'T MISS THIS OFFER!!!</h2>
         <p>The National Identity Management Commission (NIMC) established by the NIMC Act No. 23 of 2007, has the mandate to establish, own, operate, maintain and manage the National Identity Database in Nigeria, register persons covered by the Act, assign a Unique National Identification Number (NIN) and issue General Multi-Purpose Cards (GMPC) to those who are citizens of Nigeria as well as others legally residing within the country.</p>
