@@ -133,11 +133,7 @@
 <meta name='google-adsense-platform-domain' content='blogspot.com'/>
 </head>
 <body>
- 
 
-    
-
-?>
 
     <div class="testbox">
 
