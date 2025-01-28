@@ -208,7 +208,7 @@
 
        <!-- BEGIN: Powered by Supercounters.com -->
 <center><script type="text/javascript" src="//widget.supercounters.com/ssl/online_t.js"></script><script type="text/javascript">sc_online_t(1707247,"","000000");</script><br><noscript><a href="https://www.supercounters.com/">supercounters.com</a></noscript>
-</center>
+
 <!-- END: Powered by Supercounters.com -->
 
   
@@ -218,5 +218,3 @@
     <div class="footer">
         &copy; 2025 Nimc Correction Centre
     </div>
-</body>
-</html>
