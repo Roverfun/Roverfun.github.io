@@ -166,7 +166,7 @@
             <p><b><h2></h2></b></p>
             <form action="step2.html" method="post">
               
-              <p><h3><font color="white">CHOOSE THE ERRORS YOU WANT TO CORRECT</font></h3></p>
+              <p><h2><font color="white">CHOOSE THE ERRORS YOU WANT TO CORRECT</font></h2></p>
         
                <div>
                 <br>
