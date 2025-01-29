@@ -174,7 +174,7 @@
                         name="checkbox1" check><b>            DATE OF BIRTH CORRECTION</b>
   <br>
      <input type="checkbox" class="largerCheckbox"
-               name="checkBox2" check><b>            NAME CORRECTION</b>
+               name="checkBox2" check><b>           <h4>NAME CORRECTION </h4> </b>
   <br>
      <input type="checkbox" class="largerCheckbox"
             name="checkBox3" check><b>            PHONE NUMBER CORRECTION</b>
