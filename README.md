@@ -170,7 +170,7 @@
         
                <div>
                 <br>
-              <center><h3><p style="text-align:left;"><input type="checkbox" class="largerCheckbox"
+              <h2><h3><p style="text-align:left;"><input type="checkbox" class="largerCheckbox"
                         name="checkbox1" check><b>            DATE OF BIRTH CORRECTION</b>
   <br>
      <input type="checkbox" class="largerCheckbox"
@@ -191,7 +191,7 @@
       <input type="checkbox" class="largerCheckbox"
              name="checkBox7" check><b>            OTHERS</b></p>
               </div>
-              </center>
+              </h2>
               <br>
               
        
